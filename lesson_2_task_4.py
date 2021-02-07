@@ -6,3 +6,4 @@ my_str = input('Введите строчку: ')
 my_list = list(my_str.split())
 for el in my_list:
     print(el[0:10], end=' ')
+    
